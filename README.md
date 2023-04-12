@@ -8,7 +8,7 @@ Obteniendo la correlacion de las variables e identificandolas,dando así la conc
 Previamente se ha realizado una limpieza de data en excel, para no encontrar datos atipicos/incoherente ya que nos puede afectar negativamente el análisis posterior
 
 
-![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
+[![cereales-avena-crunchy-mercadona-2459559-jpg-1052834916.webp](https://i.postimg.cc/mkLDtZMz/cereales-avena-crunchy-mercadona-2459559-jpg-1052834916.webp)](https://postimg.cc/ygGBGHLs)
 
 
 Viz de Max y Sam Preston: Cereales para el desayuno
